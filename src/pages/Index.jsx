@@ -7,7 +7,7 @@ const Index = () => {
       <VStack spacing={8} align="stretch">
         <Box textAlign="center">
           <Heading as="h1" size="2xl" mb={4}>
-            eSwatini Business Incubation
+            ABD eSwatini Business Incubation
           </Heading>
           <Text fontSize="lg">Empowering informal businesses to thrive in the digital age</Text>
         </Box>
